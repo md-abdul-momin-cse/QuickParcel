@@ -59,3 +59,24 @@ This project was developed as part of the Final Year Project for the Bachelor of
 - Manage Users
 - Manage Delivery Drivers
 - Monitor Parcel Activities
+
+
+## 📊 System Workflow
+
+QuickParcel consists of three main modules: Customer, Driver, and Admin.
+
+### Customer Workflow
+
+![Customer Workflow](documents/flowchart/customer-workflow.png)
+
+---
+
+### Driver Workflow
+
+![Driver Workflow](documents/flowchart/driver-workflow.png)
+
+---
+
+### Admin Workflow
+
+![Admin Workflow](documents/flowchart/admin-workflow.png)
