@@ -80,3 +80,62 @@ QuickParcel consists of three main modules: Customer, Driver, and Admin.
 ### Admin Workflow
 
 ![Admin Workflow](documents/flowchart/admin-workflow.png)
+
+
+---
+
+## 📱 Customer Module
+
+The following screenshots demonstrate the main workflow of the customer application.
+
+### 1. Splash Screen
+
+![Splash Screen](screenshots/customer/01_splash_screen.png)
+
+---
+
+### 2. Login
+
+![Login](screenshots/customer/02_login_screen.png)
+
+---
+
+### 3. Sign Up
+
+![Sign Up](screenshots/customer/03_signup_screen.png)
+
+---
+
+### 4. Home Screen
+
+![Home Screen](screenshots/customer/04_home_screen.png)
+
+---
+
+### 5. Parcel Services
+
+![Parcel Services](screenshots/customer/05_parcel_services.png)
+
+---
+
+### 6. Driver Selection
+
+![Driver Selection](screenshots/customer/06_driver_selection.png)
+
+---
+
+### 7. Driver Details
+
+![Driver Details](screenshots/customer/07_driver_details.png)
+
+---
+
+### 8. Online Payment
+
+![Online Payment](screenshots/customer/08_online_payment.png)
+
+---
+
+### 9. Live Tracking
+
+![Live Tracking](screenshots/customer/09_live_tracking.png)
