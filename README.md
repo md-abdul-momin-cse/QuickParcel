@@ -175,8 +175,50 @@ The Driver Module enables delivery personnel to receive parcel requests, manage 
 
 ![Active Order](screenshots/driver/05_active_order.jpg)
 
+
 ---
 
 ### 6. Delivery Status
 
 ![Delivery Status](screenshots/driver/06_delivery_status.jpg)
+
+
+---
+
+## 🛠 Admin Module
+
+The Admin Module allows administrators to manage customers, drivers, parcel assignments, and overall system operations.
+
+### 1. Admin Login
+
+![Admin Login](screenshots/admin/01_admin_login.png)
+
+---
+
+### 2. Admin Dashboard
+
+![Admin Dashboard](screenshots/admin/02_admin_dashboard.png)
+
+---
+
+### 3. Customer Management
+
+![Customer Management](screenshots/admin/03_customer_management.png)
+
+---
+
+### 4. Driver Management
+
+![Driver Management](screenshots/admin/04_driver_management.png)
+
+---
+
+### 5. Delivery Assignment
+
+![Delivery Assignment](screenshots/admin/05_delivery_assignment.png)
+
+---
+
+### 6. Parcel Management
+
+![Parcel Management](screenshots/admin/06_parcel_management.png)
