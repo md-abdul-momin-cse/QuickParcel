@@ -161,22 +161,22 @@ The Driver Module enables delivery personnel to receive parcel requests, manage 
 
 ### 3. Driver Dashboard
 
-![Driver Dashboard](screenshots/driver/03_driver_dashboard.png)
+![Driver Dashboard](screenshots/driver/03_driver_dashboard.jpg)
 
 ---
 
 ### 4. Pending Orders
 
-![Pending Orders](screenshots/driver/04_pending_orders.png)
+![Pending Orders](screenshots/driver/04_pending_orders.jpg)
 
 ---
 
 ### 5. Active Order
 
-![Active Order](screenshots/driver/05_active_order.png)
+![Active Order](screenshots/driver/05_active_order.jpg)
 
 ---
 
 ### 6. Delivery Status
 
-![Delivery Status](screenshots/driver/06_delivery_status.png)
+![Delivery Status](screenshots/driver/06_delivery_status.jpg)
