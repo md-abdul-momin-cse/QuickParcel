@@ -21,3 +21,41 @@ This project was developed as part of the Final Year Project for the Bachelor of
 - Provide real-time parcel tracking.
 - Improve communication between customers and drivers.
 - Build a secure and user-friendly mobile application.
+
+
+---
+
+## 🛠 Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Mobile App | Flutter |
+| Backend | Firebase |
+| Database | Cloud Firestore |
+| Authentication | Firebase Authentication |
+| UI Design | Figma |
+| Programming Language | Dart |
+
+---
+
+## ✨ Key Features
+
+### Customer
+- User Registration & Login
+- Parcel Booking
+- Delivery Tracking
+- Driver Communication
+- Profile Management
+
+### Driver
+- Driver Login
+- Receive Delivery Requests
+- Update Parcel Status
+- Share Live Location
+- Customer Communication
+
+### Admin
+- Admin Login
+- Manage Users
+- Manage Delivery Drivers
+- Monitor Parcel Activities
