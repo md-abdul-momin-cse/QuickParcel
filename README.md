@@ -139,3 +139,44 @@ The following screenshots demonstrate the main workflow of the customer applicat
 ### 9. Live Tracking
 
 ![Live Tracking](screenshots/customer/09_live_tracking.png)
+
+
+---
+
+## 🚚 Driver Module
+
+The Driver Module enables delivery personnel to receive parcel requests, manage assigned deliveries, and update delivery status throughout the delivery process.
+
+### 1. Driver Login
+
+![Driver Login](screenshots/driver/01_driver_login.png)
+
+---
+
+### 2. Driver Registration
+
+![Driver Registration](screenshots/driver/02_driver_registration.png)
+
+---
+
+### 3. Driver Dashboard
+
+![Driver Dashboard](screenshots/driver/03_driver_dashboard.png)
+
+---
+
+### 4. Pending Orders
+
+![Pending Orders](screenshots/driver/04_pending_orders.png)
+
+---
+
+### 5. Active Order
+
+![Active Order](screenshots/driver/05_active_order.png)
+
+---
+
+### 6. Delivery Status
+
+![Delivery Status](screenshots/driver/06_delivery_status.png)
