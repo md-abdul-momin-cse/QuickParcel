@@ -288,3 +288,17 @@ The following features can be added in future versions of QuickParcel:
 - Multiple payment gateway integration.
 - Delivery analytics and reporting dashboard.
 - Enhanced security and performance optimization.
+
+
+---
+
+---
+
+---
+
+# 👨‍💻 Development Team
+
+| Name | Role | GitHub |
+|------|------|--------|
+| **Md. Abdul Momin** | Flutter Development, UI/UX Design, Documentation | [md-abdul-momin-cse](https://github.com/md-abdul-momin-cse) |
+| **Md. Abdullah** | Flutter Development & Firebase Integration | [MdAbdullah2023](https://github.com/MdAbdullah2023) |
