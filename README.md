@@ -222,3 +222,28 @@ The Admin Module allows administrators to manage customers, drivers, parcel assi
 ### 6. Parcel Management
 
 ![Parcel Management](screenshots/admin/06_parcel_management.png)
+
+
+---
+
+## 📂 Project Structure
+
+```text
+QuickParcel/
+├── android/
+├── ios/
+├── lib/
+├── assets/
+├── screenshots/
+│   ├── customer/
+│   ├── driver/
+│   └── admin/
+├── documents/
+│   ├── flowchart/
+│   └── proposal/
+├── pubspec.yaml
+├── README.md
+└── LICENSE
+```
+
+The project is developed as a single Flutter application. Customer, Driver, and Admin functionalities are organized as separate modules within the application.
