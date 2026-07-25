@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228852164791",
+    "project_id": "quickparcel-f0b4e",
+    "storage_bucket": "quickparcel-f0b4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228852164791:android:fe7168250ff884e8514532",
+        "android_client_info": {
+          "package_name": "com.example.quick_parcel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228852164791-mtd0bgvgogjnhdgtmovv5f2ml4asakrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quick_parcel",
+            "certificate_hash": "674fd792d3ac1992f6e76d9c0e1decd023ca04e4"
+          }
+        },
+        {
+          "client_id": "228852164791-ajesqor7rcj4v9raq0ulstqsjeunl2ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5So1ivlz6ktB5rq83buHa5pYJ6LbUn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228852164791-ajesqor7rcj4v9raq0ulstqsjeunl2ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
