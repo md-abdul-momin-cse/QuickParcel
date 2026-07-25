@@ -292,9 +292,6 @@ The following features can be added in future versions of QuickParcel:
 
 ---
 
----
-
----
 
 # 👨‍💻 Development Team
 
@@ -302,3 +299,18 @@ The following features can be added in future versions of QuickParcel:
 |------|------|--------|
 | **Md. Abdul Momin** | Flutter Development, UI/UX Design, Documentation | [md-abdul-momin-cse](https://github.com/md-abdul-momin-cse) |
 | **Md. Abdullah** | Flutter Development & Firebase Integration | [MdAbdullah2023](https://github.com/MdAbdullah2023) |
+
+
+---
+
+# 📄 Project Documentation
+
+The project documentation included in this repository:
+
+- 📑 **Project Proposal**
+  - [QuickParcel Proposal](documents/proposal/QuickParcel_Proposal.pdf)
+
+- 🔄 **System Workflow**
+  - Customer Workflow
+  - Driver Workflow
+  - Admin Workflow
