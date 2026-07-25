@@ -247,3 +247,31 @@ QuickParcel/
 ```
 
 The project is developed as a single Flutter application. Customer, Driver, and Admin functionalities are organized as separate modules within the application.
+
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio or Visual Studio Code
+- Firebase Project Configuration
+
+### Installation
+
+```bash
+git clone https://github.com/md-abdul-momin-cse/QuickParcel.git
+
+cd QuickParcel
+
+flutter pub get
+
+flutter run
+```
+
+> **Note:** Before running the project, configure Firebase by adding the required configuration files (`google-services.json` for Android and `GoogleService-Info.plist` for iOS).
