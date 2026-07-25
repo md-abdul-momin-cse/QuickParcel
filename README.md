@@ -315,10 +315,3 @@ The project documentation included in this repository:
   - Driver Workflow
   - Admin Workflow
 
-
----
-
-## 👨‍💻 Authors
-
-- **Md. Abdul Momin** - Flutter Development, UI Design, Documentation
-- **Md. Abdullah** - Project Development & Collaboration
