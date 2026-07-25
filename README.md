@@ -269,6 +269,20 @@ git clone https://github.com/md-abdul-momin-cse/QuickParcel.git
 
 cd QuickParcel
 
+
+---
+
+## 🔮 Future Improvements
+
+The following features can be added in future versions of QuickParcel:
+
+- Real-time push notifications for parcel updates.
+- Advanced GPS tracking with route optimization.
+- In-app rating and review system.
+- Multiple payment gateway integration.
+- Delivery analytics and reporting dashboard.
+- Enhanced security and performance optimization.
+
 flutter pub get
 
 flutter run
